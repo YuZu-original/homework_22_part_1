@@ -1,0 +1,1 @@
+<h1>Homework 22 "Patterns and antipatterns"(part 1)</h1>
